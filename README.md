@@ -1,4 +1,4 @@
-# Projeto criado para portfólio.
+# Projeto criado para portfólio
 
 * HTML
 * CSS
